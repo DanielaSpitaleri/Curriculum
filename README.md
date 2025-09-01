@@ -13,11 +13,5 @@ Se desideri contattarmi, puoi farlo attraverso i seguenti canali:
 
 - Email: [danielaspitaleri3@gmail.com](mailto:danielaspitaleri3@gmail.it)
 - GitHub: [DanielaSpitaleri](https://github.com/DanielaSpitaleri)
-## 🔄 Come Contribuire
 
-Questo repository è principalmente un portfolio personale. Tuttavia, se desideri suggerire miglioramenti, correggere errori o aggiungere nuove funzionalità, sei il benvenuto! Ogni contributo è apprezzato.
-
-
-
-Grazie per aver visitato il mio curriculum online!
 
