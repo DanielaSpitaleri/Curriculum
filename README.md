@@ -1,3 +1,4 @@
+
 # Curriculum Vitae di Daniela Spitaleri
 
 Benvenuto nel repository del mio Curriculum Vitae! Questo sito web presenta una panoramica su chi sono, i miei contatti, il mio percorso formativo e le competenze che ho acquisito.
@@ -19,3 +20,4 @@ Questo repository è principalmente un portfolio personale. Tuttavia, se desider
 
 
 Grazie per aver visitato il mio curriculum online!
+
